@@ -1,0 +1,7 @@
+#matches:
+#  -trigger: ":refund"
+#  replace: |
+#  Hi,
+# 
+# Thanks for
+# |
